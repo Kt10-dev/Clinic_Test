@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-006
+Name: Anil Johnson
+Age: 60
+Gender: Male
+
+Medical History:
+Primary Condition: Asthma
+Notes: History of childhood Asthma. Uses inhaler occasionally. No recent attacks.
+
+Vital Signs:
+- Blood Pressure: 161/81 mmHg
+- Fasting Glucose: 85 mg/dL
+- Heart Rate: 86 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

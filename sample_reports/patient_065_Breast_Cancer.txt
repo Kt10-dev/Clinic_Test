@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-065
+Name: Anil Singh
+Age: 30
+Gender: Other
+
+Medical History:
+Primary Condition: Breast Cancer
+Notes: Initial diagnosis 2 months ago. Pending surgery and treatment plan.
+
+Vital Signs:
+- Blood Pressure: 130/108 mmHg
+- Fasting Glucose: 95 mg/dL
+- Heart Rate: 83 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

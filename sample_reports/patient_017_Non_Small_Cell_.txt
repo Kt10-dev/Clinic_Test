@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-017
+Name: Michael Johnson
+Age: 73
+Gender: Female
+
+Medical History:
+Primary Condition: Non-Small Cell Lung Cancer
+Notes: Stage IV Lung Cancer. Failed at least one line of chemotherapy 3 months ago.
+
+Vital Signs:
+- Blood Pressure: 168/78 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 74 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

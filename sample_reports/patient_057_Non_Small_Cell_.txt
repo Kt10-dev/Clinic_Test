@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-057
+Name: Michael Kumar
+Age: 31
+Gender: Other
+
+Medical History:
+Primary Condition: Non-Small Cell Lung Cancer
+Notes: Stage IV Lung Cancer. Failed at least one line of chemotherapy 3 months ago.
+
+Vital Signs:
+- Blood Pressure: 151/108 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 78 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

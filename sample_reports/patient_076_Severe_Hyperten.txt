@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-076
+Name: Emily Sharma
+Age: 43
+Gender: Female
+
+Medical History:
+Primary Condition: Severe Hypertension with Asthma
+Notes: Blood pressure 155/95. History of Asthma making certain beta-blockers risky.
+
+Vital Signs:
+- Blood Pressure: 147/100 mmHg
+- Fasting Glucose: 98 mg/dL
+- Heart Rate: 100 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

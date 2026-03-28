@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-026
+Name: Sarah Singh
+Age: 41
+Gender: Other
+
+Medical History:
+Primary Condition: Type 2 Diabetes
+Notes: Diagnosed 4 years ago. Currently managing condition with Metformin standard dose. Blood pressure slightly elevated.
+
+Vital Signs:
+- Blood Pressure: 122/74 mmHg
+- Fasting Glucose: 145 mg/dL
+- Heart Rate: 98 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

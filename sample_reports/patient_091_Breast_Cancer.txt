@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-091
+Name: Michael Doe
+Age: 50
+Gender: Other
+
+Medical History:
+Primary Condition: Breast Cancer
+Notes: Initial diagnosis 2 months ago. Pending surgery and treatment plan.
+
+Vital Signs:
+- Blood Pressure: 142/70 mmHg
+- Fasting Glucose: 95 mg/dL
+- Heart Rate: 68 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

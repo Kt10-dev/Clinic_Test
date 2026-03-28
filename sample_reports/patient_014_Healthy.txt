@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-014
+Name: Sarah Davis
+Age: 26
+Gender: Other
+
+Medical History:
+Primary Condition: Healthy
+Notes: Routine checkup. No prior major illnesses. Normal vitals.
+
+Vital Signs:
+- Blood Pressure: 147/88 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 92 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

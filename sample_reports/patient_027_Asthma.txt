@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-027
+Name: Sarah Williams
+Age: 62
+Gender: Other
+
+Medical History:
+Primary Condition: Asthma
+Notes: History of childhood Asthma. Uses inhaler occasionally. No recent attacks.
+
+Vital Signs:
+- Blood Pressure: 174/76 mmHg
+- Fasting Glucose: 85 mg/dL
+- Heart Rate: 72 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

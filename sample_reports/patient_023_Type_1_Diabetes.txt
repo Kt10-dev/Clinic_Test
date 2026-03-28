@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-023
+Name: Robert Patel
+Age: 39
+Gender: Female
+
+Medical History:
+Primary Condition: Type 1 Diabetes
+Notes: Diagnosed at age 12. Insulin dependent. Cannot take Metformin.
+
+Vital Signs:
+- Blood Pressure: 143/102 mmHg
+- Fasting Glucose: 120 mg/dL
+- Heart Rate: 93 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

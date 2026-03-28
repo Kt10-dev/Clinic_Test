@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-053
+Name: Kavita Gupta
+Age: 34
+Gender: Female
+
+Medical History:
+Primary Condition: Severe Hypertension with Asthma
+Notes: Blood pressure 155/95. History of Asthma making certain beta-blockers risky.
+
+Vital Signs:
+- Blood Pressure: 125/89 mmHg
+- Fasting Glucose: 98 mg/dL
+- Heart Rate: 82 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

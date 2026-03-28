@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-073
+Name: Neha Smith
+Age: 79
+Gender: Other
+
+Medical History:
+Primary Condition: Healthy
+Notes: Routine checkup. No prior major illnesses. Normal vitals.
+
+Vital Signs:
+- Blood Pressure: 131/89 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 78 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

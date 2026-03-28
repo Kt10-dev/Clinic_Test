@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-024
+Name: Kavita Miller
+Age: 77
+Gender: Female
+
+Medical History:
+Primary Condition: Breast Cancer
+Notes: Initial diagnosis 2 months ago. Pending surgery and treatment plan.
+
+Vital Signs:
+- Blood Pressure: 133/73 mmHg
+- Fasting Glucose: 95 mg/dL
+- Heart Rate: 84 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

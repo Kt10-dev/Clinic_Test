@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-078
+Name: Neha Patel
+Age: 33
+Gender: Male
+
+Medical History:
+Primary Condition: Asthma
+Notes: History of childhood Asthma. Uses inhaler occasionally. No recent attacks.
+
+Vital Signs:
+- Blood Pressure: 129/97 mmHg
+- Fasting Glucose: 85 mg/dL
+- Heart Rate: 64 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

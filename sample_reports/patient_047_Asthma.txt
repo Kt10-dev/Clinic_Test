@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-047
+Name: Kavita Brown
+Age: 25
+Gender: Male
+
+Medical History:
+Primary Condition: Asthma
+Notes: History of childhood Asthma. Uses inhaler occasionally. No recent attacks.
+
+Vital Signs:
+- Blood Pressure: 147/73 mmHg
+- Fasting Glucose: 85 mg/dL
+- Heart Rate: 100 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.
