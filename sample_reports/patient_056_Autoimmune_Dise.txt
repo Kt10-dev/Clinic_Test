@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-056
+Name: James Jones
+Age: 80
+Gender: Other
+
+Medical History:
+Primary Condition: Autoimmune Disease
+Notes: Diagnosed with Lupus 2 years ago. Currently on immune suppressants.
+
+Vital Signs:
+- Blood Pressure: 130/91 mmHg
+- Fasting Glucose: 80 mg/dL
+- Heart Rate: 94 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

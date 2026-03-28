@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-005
+Name: Rahul Jones
+Age: 65
+Gender: Female
+
+Medical History:
+Primary Condition: Type 1 Diabetes
+Notes: Diagnosed at age 12. Insulin dependent. Cannot take Metformin.
+
+Vital Signs:
+- Blood Pressure: 118/82 mmHg
+- Fasting Glucose: 120 mg/dL
+- Heart Rate: 79 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

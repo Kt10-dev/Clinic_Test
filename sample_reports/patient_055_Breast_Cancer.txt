@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-055
+Name: Amit Gupta
+Age: 33
+Gender: Female
+
+Medical History:
+Primary Condition: Breast Cancer
+Notes: Initial diagnosis 2 months ago. Pending surgery and treatment plan.
+
+Vital Signs:
+- Blood Pressure: 161/71 mmHg
+- Fasting Glucose: 95 mg/dL
+- Heart Rate: 88 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

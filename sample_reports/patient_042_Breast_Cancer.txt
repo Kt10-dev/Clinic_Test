@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-042
+Name: David Brown
+Age: 66
+Gender: Male
+
+Medical History:
+Primary Condition: Breast Cancer
+Notes: Initial diagnosis 2 months ago. Pending surgery and treatment plan.
+
+Vital Signs:
+- Blood Pressure: 136/83 mmHg
+- Fasting Glucose: 95 mg/dL
+- Heart Rate: 92 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

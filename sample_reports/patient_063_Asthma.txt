@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-063
+Name: Emily Miller
+Age: 73
+Gender: Male
+
+Medical History:
+Primary Condition: Asthma
+Notes: History of childhood Asthma. Uses inhaler occasionally. No recent attacks.
+
+Vital Signs:
+- Blood Pressure: 172/93 mmHg
+- Fasting Glucose: 85 mg/dL
+- Heart Rate: 98 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

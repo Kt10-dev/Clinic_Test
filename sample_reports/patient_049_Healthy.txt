@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-049
+Name: Alice Miller
+Age: 30
+Gender: Other
+
+Medical History:
+Primary Condition: Healthy
+Notes: Routine checkup. No prior major illnesses. Normal vitals.
+
+Vital Signs:
+- Blood Pressure: 142/97 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 62 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

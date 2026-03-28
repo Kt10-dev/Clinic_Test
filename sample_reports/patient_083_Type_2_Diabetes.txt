@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-083
+Name: Laura Patel
+Age: 70
+Gender: Male
+
+Medical History:
+Primary Condition: Type 2 Diabetes
+Notes: Diagnosed 4 years ago. Currently managing condition with Metformin standard dose. Blood pressure slightly elevated.
+
+Vital Signs:
+- Blood Pressure: 139/87 mmHg
+- Fasting Glucose: 145 mg/dL
+- Heart Rate: 83 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

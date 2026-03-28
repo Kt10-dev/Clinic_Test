@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-089
+Name: Neha Verma
+Age: 40
+Gender: Female
+
+Medical History:
+Primary Condition: Healthy
+Notes: Routine checkup. No prior major illnesses. Normal vitals.
+
+Vital Signs:
+- Blood Pressure: 141/76 mmHg
+- Fasting Glucose: 90 mg/dL
+- Heart Rate: 67 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

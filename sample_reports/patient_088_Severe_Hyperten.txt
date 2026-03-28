@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-088
+Name: David Patel
+Age: 28
+Gender: Other
+
+Medical History:
+Primary Condition: Severe Hypertension with Asthma
+Notes: Blood pressure 155/95. History of Asthma making certain beta-blockers risky.
+
+Vital Signs:
+- Blood Pressure: 155/97 mmHg
+- Fasting Glucose: 98 mg/dL
+- Heart Rate: 88 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.

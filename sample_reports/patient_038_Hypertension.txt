@@ -1,0 +1,18 @@
+CLINICAL PATIENT REPORT
+-------------------------
+Patient ID: P-038
+Name: Emily Doe
+Age: 80
+Gender: Other
+
+Medical History:
+Primary Condition: Hypertension
+Notes: History of Severe Hypertension. Blood pressure consistently over 160/95. Currently on Beta-blockers.
+
+Vital Signs:
+- Blood Pressure: 120/87 mmHg
+- Fasting Glucose: 100 mg/dL
+- Heart Rate: 65 bpm
+
+Summary:
+Patient is seeking new potential trial options if eligible based on inclusion/exclusion criteria.
