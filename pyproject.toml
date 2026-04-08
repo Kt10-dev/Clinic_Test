@@ -1,0 +1,20 @@
+[project]
+name = "clinical-trial-matchmaker"
+version = "1.0.0"
+description = "A real-world healthcare environment"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "openai",
+    "httpx",
+    "python-multipart",
+    "pypdf",
+    "python-docx",
+    "python-dotenv",
+    "openenv-core>=0.2.0"
+]
+
+[project.scripts]
+server = "server.app:main"
